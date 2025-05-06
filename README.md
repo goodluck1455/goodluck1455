@@ -6,7 +6,7 @@ Frontend Engineer
 
 I’m a passionate front-end developer skilled in creating clean, responsive, and user-friendly web applications. With a strong eye for design and functionality, I aim to deliver impactful and efficient web solutions while staying updated on modern technologies and trends. Dedicated to continuous learning and contributing to impactful projects that enhance user experiences and align with organizational objectives.
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Lagos Nigeria
 * ✉️  You can contact me at [goodluckstephen237@gmail.com](mailto:goodluckstephen237@gmail.com)
 * 🧠  I'm learning Python and Django to strengthen my skills in backend development.
 * 🤝  I'm open to collaborating on web app projects
